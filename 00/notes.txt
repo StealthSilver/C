@@ -4,3 +4,6 @@ new file can be created by the extention by .c
 
 
 VARIABLES : name of the memory location that stores some data
+
+int a = 90;
+
