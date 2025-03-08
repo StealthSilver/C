@@ -14,3 +14,8 @@ rules for writing variables
 2. 1st character can be _ or alphabet nothing else
 3. no comma or blank space can be used in variable name
 4. the name of the variables must be meaningful
+
+* for storing a char type of data use single quotes
+
+
+DATA TYPES 
