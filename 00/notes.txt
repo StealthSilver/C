@@ -5,5 +5,12 @@ new file can be created by the extention by .c
 
 VARIABLES : name of the memory location that stores some data
 
+b.c 
+
 int a = 90;
 
+rules for writing variables
+1. Variables are case sensitive
+2. 1st character can be _ or alphabet nothing else
+3. no comma or blank space can be used in variable name
+4. the name of the variables must be meaningful
