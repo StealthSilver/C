@@ -1,3 +1,5 @@
+// C is a case sensetive language
+
 #include <stdio.h> // preprocessor directive
 
 int main() // main function, entry point
