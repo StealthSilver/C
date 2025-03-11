@@ -7,3 +7,7 @@ they are used to run the repetitive code
 2. while loop 
 
 3. do while loop
+
+pre increment and post increment (04.c)
+
+infinite loop (05.c) -> never use the infinite loop as it will fill the RAM completely
