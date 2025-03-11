@@ -1,9 +1,12 @@
 CONDITIONAL STATEMENTS
 
-if-else 
+if-else (01.c)
 
-if- else if -else
+if- else if -else (02.c)
 
-ternary 
+ternary (03.c)
 
 condition ? doSomething if TRUE : doSomething if FALSE
+
+switch case (04.c)
+
