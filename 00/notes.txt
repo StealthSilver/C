@@ -43,3 +43,4 @@ character constants -> 'a' , 'A' , '@'
 KEYWORDS 
 
 there are a few reserved words that cannot be used as the name of the variables
+in C there are 32 keywords
