@@ -10,3 +10,14 @@ condition ? doSomething if TRUE : doSomething if FALSE
 
 switch case (04.c)
 
+switch (number){
+    case c1: // do Something
+    break;
+    case c2: // do Something
+    break;
+    default: // do something
+}
+
+properties 
+a. cases can be in any order
+b. nested switch are allowed
