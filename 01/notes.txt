@@ -34,3 +34,12 @@ operator precedence
 =
 
 if the precedence is same then the associavity rule is implemented (L -> R)
+
+3. control instructions 
+
+they can control the flow of the execution of program 
+
+a. sequence control  
+b. decision control 
+c. loop control 
+d. case control  
