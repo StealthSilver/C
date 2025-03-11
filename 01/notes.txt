@@ -21,4 +21,6 @@ int op int -> int
 int op float -> float 
 float op float -> float
 
-
+(e.c)
+implicit conversions -> the compiler do these conversions by itself
+explicit conevrsions -> they are done by the developer forcefully
