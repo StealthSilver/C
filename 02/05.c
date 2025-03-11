@@ -3,7 +3,7 @@
 int main()
 {
 
-    int num = 54;
+    int num = -32;
 
     if (num >= 0)
     {
@@ -13,7 +13,7 @@ int main()
         }
         else
         {
-            printf("number is odd \n")
+            printf("number is odd \n");
         }
     }
     else
