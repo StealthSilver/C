@@ -6,7 +6,7 @@ int main()
 {
 
     int x;
-    printf("enter a number : ");
+    printf("enter a number : w");
     scanf("%d", &x);
     printf("%d", x % 2 == 0);
 
