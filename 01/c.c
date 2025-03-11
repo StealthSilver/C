@@ -1,13 +1,16 @@
 #include <stdio.h>
-#include <math.h>
+#include <math.h> // header file for mathematical functions
 
 int main()
 {
     int b, c;
-    b = c = 1;
-    int a = b + c;
-    int power = b ^ c;
+    b = c = 2;
+    int a = 5;
+    int power = pow(a, b);
 
-    printf("%d", power);
+    printf("%d \n", power);
+
+    int mod = a % b;
+    printf("%d", mod);
     return 0;
 }
