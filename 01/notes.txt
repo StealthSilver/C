@@ -7,3 +7,10 @@ decleration of the variable before using it
 
 2. arithmetic instructions 
 all the mathematical instructions 
+
+sum +
+diff - 
+mul * 
+div /
+mod % 
+to use other mathematical functions we can use the math.h file
