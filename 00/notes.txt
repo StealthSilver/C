@@ -34,3 +34,12 @@ long double -> 10 bytes
 
 there are no boolean types, strings, objects in C 
 
+CONSTANTS 
+
+integer constants -> 1,2,3 
+real constants -> 1.3 , 5.4
+character constants -> 'a' , 'A' , '@'
+
+KEYWORDS 
+
+there are a few reserved words that cannot be used as the name of the variables
