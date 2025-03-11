@@ -25,3 +25,12 @@ float op float -> float
 implicit conversions -> the compiler do these conversions by itself 
 while going from float / double to int , the decimals are removed
 explicit conevrsions -> they are done by the developer forcefully
+
+
+operator precedence
+
+* , / , % 
++ , -
+=
+
+if the precedence is same then the associavity rule is implemented (L -> R)
