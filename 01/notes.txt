@@ -79,3 +79,5 @@ assignment operators (i.c)
 priority of all the operators 
 
 not -> arthematic -> relational -> logical -> assignment
+
+* we cannot create multicharacter constants char a = "@@" -> this is invalid
