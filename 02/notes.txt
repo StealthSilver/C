@@ -21,3 +21,6 @@ switch (number){
 properties 
 a. cases can be in any order
 b. nested switch are allowed
+
+
+nested if-else
