@@ -22,5 +22,6 @@ int op float -> float
 float op float -> float
 
 (e.c)
-implicit conversions -> the compiler do these conversions by itself
+implicit conversions -> the compiler do these conversions by itself 
+while going from float / double to int , the decimals are removed
 explicit conevrsions -> they are done by the developer forcefully
