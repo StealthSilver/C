@@ -1,11 +1,11 @@
-PROGRAMMING IN C
+PROGRAMMING IN C (a.c)
 
 new file can be created by the extention by .c 
 
 
 VARIABLES : name of the memory location that stores some data
 
-b.c 
+(b.c)
 
 int a = 90;
 
@@ -18,7 +18,7 @@ rules for writing variables
 * for storing a char type of data use single quotes
 
 
-DATA TYPES 
+DATA TYPES (c.c)
 
 Char / Signed char -> 1 byte
 Unsigned char -> 1 byte
@@ -53,7 +53,7 @@ multi line /* this is a
             multi line comment */
 
 
-OUTPUT IN C 
+OUTPUT IN C (d.c , e.c)
 
 printf("hello");
 
@@ -62,3 +62,8 @@ format specifiers are used to get the output format
 for int -> %d 
 for float -> %f 
 for char -> %c
+
+
+INPUT IN C (f.c)
+
+scanf("%d" , &age) -> the format specifier and the naem of the variable is provided to store the value at the address represented by the variable
