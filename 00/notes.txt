@@ -43,4 +43,11 @@ character constants -> 'a' , 'A' , '@'
 KEYWORDS 
 
 there are a few reserved words that cannot be used as the name of the variables
-in C there are 32 keywords
+in C there are 32 keywords 
+
+COMMENTS 
+
+single line // this is a single line comment 
+
+multi line /* this is a 
+            multi line comment */
