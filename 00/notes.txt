@@ -67,3 +67,10 @@ for char -> %c
 INPUT IN C (f.c)
 
 scanf("%d" , &age) -> the format specifier and the naem of the variable is provided to store the value at the address represented by the variable
+
+COMPILATION 
+
+a computer program that convers the c code into machine code 
+
+hello.c -> c compiler -> a.exe(windows)
+                         a.out(linux / mac)
