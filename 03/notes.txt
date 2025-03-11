@@ -15,3 +15,7 @@ infinite loop (05.c) -> never use the infinite loop as it will fill the RAM comp
 break statement (09.c) 
 
 this breaks the loop where it is written
+
+continue statement (11.c)
+
+this skips to the next iteration
