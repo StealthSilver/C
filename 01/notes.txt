@@ -14,3 +14,9 @@ mul *
 div /
 mod % 
 to use other mathematical functions we can use the math.h file
+
+type conversion 
+
+int op int -> int 
+int op float -> float 
+float op float -> float
