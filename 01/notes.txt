@@ -5,3 +5,5 @@ they are the the rules which are implemented in a program
 1. type decleration instructions 
 decleration of the variable before using it 
 
+2. arithmetic instructions 
+all the mathematical instructions 
