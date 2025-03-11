@@ -1,0 +1,9 @@
+LOOP CONTROL INSTRUCTIONS
+
+they are used to run the repetitive code
+
+1. for loop (01.c)
+
+2. while loop 
+
+3. do while loop
