@@ -1,0 +1,1 @@
+// checking if a no. is divisible by 2
