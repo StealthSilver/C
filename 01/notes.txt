@@ -61,8 +61,12 @@ in C there are no booleans flase is represented by 0 and true is represented by 
 < , <= -> less than , less than equal to
 != -> not equlal to
 
-logical operators 
+logical operators (h.c)
 
 && -> AND 
 || -> OR 
 ! -> NOT
+
+priority of all the operators ß
+
+not -> arthematic -> relational -> logical -> assignment
