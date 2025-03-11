@@ -5,9 +5,9 @@ int main()
 
     int x = 2;
 
-    if (x = 1)
+    if (x = 1) // this line stores the value 1 in x and it runs as its true, if it was 0 then the else will run
     {
-        printf("x is equal to 1");
+        printf("x is equal to 1 \n");
     }
     else
     {
