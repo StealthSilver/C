@@ -15,7 +15,7 @@ int main()
     }
     else
     {
-        printf("green light : go")
+        printf("green light : go");
     }
     return 0;
 }
