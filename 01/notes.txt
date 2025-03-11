@@ -51,3 +51,12 @@ b. relational operators
 c. logical operators 
 d. bitwise operator 
 e. assignment operator
+f. ternary operator
+
+relational operators (g.c)
+
+in C there are no booleans flase is represented by 0 and true is represented by 1 , or any non zero integer
+== ->  are they equal 
+> , >= -> greater than , greater than equal to
+< , <= -> less than , less than equal to
+!= -> not equlal to
