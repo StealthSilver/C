@@ -57,6 +57,8 @@ OUTPUT IN C
 
 printf("hello");
 
+
+format specifiers are used to get the output format 
 for int -> %d 
 for float -> %f 
 for char -> %c
