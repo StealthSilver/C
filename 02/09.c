@@ -7,7 +7,7 @@ int main()
     printf("enter character : ");
     scanf("%c", &ch);
 
-    if (ch >= 'A' && ch <= 'Z')
+    if (ch >= 'A' && ch <= 'Z') // the ASCII values are checked
     {
         printf("upper case");
     }
