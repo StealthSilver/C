@@ -3,13 +3,13 @@
 int main()
 {
 
-    int a = 9;
+    int a = 5;
 
-    while (a)
+    do
     {
         printf("%d \n", a);
         a--;
-    }
+    } while (a);
 
     return 0;
 }
