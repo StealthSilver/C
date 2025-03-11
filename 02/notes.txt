@@ -1,1 +1,9 @@
 CONDITIONAL STATEMENTS
+
+if-else 
+
+if- else if -else
+
+ternary 
+
+condition ? doSomething if TRUE : doSomething if FALSE
