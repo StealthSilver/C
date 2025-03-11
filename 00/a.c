@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <stdio.h> // preprocessor directive
 
-int main()
+int main() // main function, entry point
 {
     printf("Hello World");
-    return 0;
+    return 0; // return of the main function
 }
