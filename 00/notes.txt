@@ -56,3 +56,7 @@ multi line /* this is a
 OUTPUT IN C 
 
 printf("hello");
+
+for int -> %d 
+for float -> %f 
+for char -> %c
