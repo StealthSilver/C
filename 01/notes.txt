@@ -43,3 +43,11 @@ a. sequence control
 b. decision control 
 c. loop control 
 d. case control  
+
+OPERATORS 
+
+a. arthematic operators -> +, - , * , / , % 
+b. relational operators
+c. logical operators 
+d. bitwise operator 
+e. assignment operator
