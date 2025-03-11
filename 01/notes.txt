@@ -2,10 +2,10 @@ INSTRUCTIONS
 
 they are the the rules which are implemented in a program 
 
-1. type decleration instructions 
+1. type decleration instructions  (a.c)
 decleration of the variable before using it 
 
-2. arithmetic instructions 
+2. arithmetic instructions (b.c)
 all the mathematical instructions 
 
 sum +
@@ -13,10 +13,12 @@ diff -
 mul * 
 div /
 mod % 
-to use other mathematical functions we can use the math.h file
+to use other mathematical functions we can use the math.h file (c.c)
 
-type conversion 
+type conversion (d.c)
 
 int op int -> int 
 int op float -> float 
 float op float -> float
+
+
