@@ -19,3 +19,15 @@ rules for writing variables
 
 
 DATA TYPES 
+
+Char / Signed char -> 1 byte
+Unsigned char -> 1 byte
+int / signed int -> 2 byte
+unsigned int -> 2 byte
+short int / unsigned short int -> 2 byte
+Signed short int -> 2 byte
+Long int / Signed long int -> 4 bytes  
+Unsigned long int -> 4 bytes  
+float -> 4 bytes 
+double -> 8 bytes 
+long double -> 10 bytes
