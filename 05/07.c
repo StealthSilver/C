@@ -1,3 +1,5 @@
+// finding the sqrt of the number
+
 #include <stdio.h>
 #include <math.h>
 
