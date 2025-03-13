@@ -2,5 +2,11 @@ RECURSION
 
 recursion is a kind of function which calls itself (01.c)
 
-everything that can be done by loops can be completed by recursion
+properties of recursion
+
+1. everything that can be done by iteration can be done by recursion
+2. recursion can sometimes sive the most simple solution 
+3. Base case is the condition which stops recursion
+4.  iteration has infinite loop and resursion has stack overflow
+
 
