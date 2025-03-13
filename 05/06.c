@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int fibonacci(int n)
+int fib(int n)
 {
     if (n == 0)
     {
@@ -15,13 +15,14 @@ int fibonacci(int n)
     int fibNm2 = fib(n - 2);
     int fibN = fibNm1 + fibNm2;
 
-    printf("fib of %d is : ", n, fibN);
+    printf("fib of %d is : %d \n", n, fibN);
     return fibN;
 }
 
 int main()
 {
-    int n;
+
+    fib(6);
 
     return 0;
 }
