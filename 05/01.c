@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-void recursion(int count)
+void recursion(int count) // recursive function
 {
     if (count == 0)
     {
         return;
     }
-    printf("hello");
+    printf("hello \n");
     recursion(count - 1);
 }
 
