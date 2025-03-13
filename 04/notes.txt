@@ -13,4 +13,5 @@ properties of functions
 there can be two types of functions 
 
 1. user defined functions : declared and defined by the programmer 
-2. library function : special functions inbuilt in C
+2. library function : special functions inbuilt in C 
+    e.g. scanf() , printf()
