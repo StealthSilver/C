@@ -1,3 +1,5 @@
 FUNCTIONS
 
-these are the block of codes that perform a perticular task
+these are the block of codes that perform a perticular task, it increases the code reusability
+every function returns a result
+in languages like C the function also has a type
