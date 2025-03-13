@@ -2,12 +2,12 @@
 
 void printHello()
 {
-    printf("hello");
+    printf("hello \n ");
 }
 
 void printBye()
 {
-    printf("Good Bye");
+    printf("Good Bye \n");
 }
 
 int main()
