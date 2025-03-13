@@ -8,6 +8,7 @@ void printHello() // function definition
 int main()
 {
     printHello(); // function call
+    printHello(); // function call
 
     return 0;
 }
