@@ -1,13 +1,17 @@
 #include <stdio.h>
 
-void recursion()
+void recursion(int count)
 {
+    if (count == 0)
+    {
+        return;
+    }
     printf("hello");
-    recursion();
+    recursion(count - 1);
 }
 
 int main()
 {
-    recursion();
+    recursion(5);
     return 0;
 }
