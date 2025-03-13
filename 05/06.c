@@ -1,4 +1,4 @@
-// finding hte nth fibonacci number
+// finding the nth fibonacci number
 #include <stdio.h>
 
 int fib(int n)
