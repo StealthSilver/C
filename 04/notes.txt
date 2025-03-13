@@ -18,3 +18,14 @@ there can be two types of functions
 
 
 a function can take a parameter as an input (04.c)
+
+
+ARGUMENTS vs PARAMETERS
+
+arguments are values that are passed in the function call
+arguments are used to send a value
+arguments become the actual parameter once they are passed in the function definition
+
+parameters are the values in the function decleration and definition 
+parameters are used to recieve value 
+parameters are the formal parameters used while defining the function definition
