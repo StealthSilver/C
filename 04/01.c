@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-void printHello()
+void printHello() // function definition
 {
     printf("hello");
 }
 
 int main()
 {
-    printHello();
+    printHello(); // function call
 
     return 0;
 }
