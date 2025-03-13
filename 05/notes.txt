@@ -1,5 +1,6 @@
 RECURSION
 
-recursion is a kind of function which calls itself
+recursion is a kind of function which calls itself (01.c)
 
 everything that can be done by loops can be completed by recursion
+
