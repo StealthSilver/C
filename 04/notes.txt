@@ -3,3 +3,9 @@ FUNCTIONS
 these are the block of codes that perform a perticular task, it increases the code reusability
 every function returns a result
 in languages like C the function also has a type
+
+properties of functions 
+
+1. execution always starts from the main function 
+2. a function gets called directly or indirectly from the main function 
+3. there can be multiple functions in a program 
