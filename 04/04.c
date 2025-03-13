@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int sum(int x, int y)
+int sum(int x, int y) // these are formal parameters / parameters
 {
     return x + y;
 }
@@ -16,7 +16,7 @@ int main()
     printf("enter the second number : ");
     scanf("%d", &b);
 
-    int ans = sum(a, b);
+    int ans = sum(a, b); // these are the arguments
     printf("Sum is : %d", ans);
     return 0;
 }
