@@ -2,7 +2,7 @@
 
 float cel(float n)
 {
-    float a = ((5 * n) / 9) - 32;
+    float a = (5.0 / 9.0) * (n - 32);
     return a;
 }
 
