@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void resursion()
+void recursion()
 {
     printf("hello");
     recursion();
@@ -8,7 +8,6 @@ void resursion()
 
 int main()
 {
-    resursion();
-
+    recursion();
     return 0;
 }
