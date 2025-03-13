@@ -8,5 +8,4 @@ properties of recursion
 2. recursion can sometimes sive the most simple solution 
 3. Base case is the condition which stops recursion
 4.  iteration has infinite loop and resursion has stack overflow
-
-
+if the stack overflows then segmentation fault is shown
