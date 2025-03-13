@@ -1,1 +1,3 @@
 RECURSION
+
+recursion is a kind of function which calls itself
