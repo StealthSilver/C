@@ -1,1 +1,3 @@
 FUNCTIONS
+
+these are the block of codes that perform a perticular task
