@@ -3,6 +3,7 @@
 
 int main()
 {
-    int n = 144;
-    printf("the sqrt is  : d", sqrt(n));
+    float n = 144;
+    printf("the sqrt is  : %f", sqrt(n));
+    return 0;
 }
