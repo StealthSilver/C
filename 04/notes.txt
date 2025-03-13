@@ -1,10 +1,10 @@
-FUNCTIONS
+FUNCTIONS (01.c)
 
 these are the block of codes that perform a perticular task, it increases the code reusability
 every function returns a result
 in languages like C the function also has a type
 
-properties of functions 
+properties of functions  (02.c)
 
 1. execution always starts from the main function 
 2. a function gets called directly or indirectly from the main function 
@@ -15,3 +15,6 @@ there can be two types of functions
 1. user defined functions : declared and defined by the programmer 
 2. library function : special functions inbuilt in C 
     e.g. scanf() , printf()
+
+
+a function can take a parameter as an input (04.c)
