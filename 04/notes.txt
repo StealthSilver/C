@@ -9,3 +9,8 @@ properties of functions
 1. execution always starts from the main function 
 2. a function gets called directly or indirectly from the main function 
 3. there can be multiple functions in a program 
+
+there can be two types of functions 
+
+1. user defined functions : declared and defined by the programmer 
+2. library function : special functions inbuilt in C
