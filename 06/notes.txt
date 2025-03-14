@@ -1,1 +1,3 @@
 POINTERS
+
+pointers are an essential part of languages like c and c++
