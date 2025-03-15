@@ -13,6 +13,7 @@ int main()
     printf("ptr is : %d \n", ptr);   // adress pointed by the pointer
     printf("&age is : %d \n", &age); // address of the variable
     printf("_age is : %d \n", _age); // value of the variable at the address pointed by the pointer
+    printf("&ptr is : %d \n", &ptr); // address of the pointer variable
 
     return 0;
 }
