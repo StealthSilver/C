@@ -15,4 +15,7 @@ int *ptr -> to store address of int
 char *ptr -> to store address of char 
 float *ptr -> to store address of float 
 
-format specifiers for pointers
+format specifiers for pointers (02.c)
+
+%p is the format specifiers for pointers 
+this will give the age in the hexadecimal format
