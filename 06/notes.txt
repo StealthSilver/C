@@ -8,3 +8,11 @@ variable -> value -> address a
 pointer -> address a -> address ptr 
 
 pointer stntax (01.c)
+
+declaring pointers 
+
+int *ptr -> to store address of int 
+char *ptr -> to store address of char 
+float *ptr -> to store address of float 
+
+format specifiers for pointers
