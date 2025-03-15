@@ -3,3 +3,6 @@ POINTERS
 pointers are an essential part of languages like c and c++
 
 pointer is a variable that stores the memory address of another variable 
+
+variable -> value -> address a 
+pointer -> address a -> address ptr
