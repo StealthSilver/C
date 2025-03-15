@@ -9,9 +9,10 @@ int main()
 
     int _age = *ptr;
 
-    printf("*ptr is : %d \n", *ptr);
-    printf("&age is : %d \n", &age);
-    printf("_age is : %d \n", _age);
+    printf("*ptr is : %d \n", *ptr); // value at address pointed by the pointer
+    printf("ptr is : %d \n", ptr);   // adress pointed by the pointer
+    printf("&age is : %d \n", &age); // address of the variable
+    printf("_age is : %d \n", _age); // value of the variable at the address pointed by the pointer
 
     return 0;
 }
