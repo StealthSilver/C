@@ -18,4 +18,8 @@ float *ptr -> to store address of float
 format specifiers for pointers (02.c)
 
 %p is the format specifiers for pointers 
-this will give the age in the hexadecimal format
+this will give the address in the hexadecimal format
+
+%u -> format specifier for pointer 
+this will give the address in unsigned int format
+

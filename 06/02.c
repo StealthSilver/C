@@ -7,5 +7,6 @@ int main()
     int *ptr = &age;
 
     printf("%p \n", &age);
+    printf("%u \n", &age);
     return 0;
 }
