@@ -1,3 +1,7 @@
 ARRAYS
 
-collection of similar data types stored at contiguous memory locations
+collection of similar data types stored at contiguous memory locations (01.c)
+
+int marks[3]; -> size = int * 3
+char name[5]; -> size = char * 5
+float price[3]; -> size = flaot * 3
