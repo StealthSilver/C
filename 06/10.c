@@ -1,3 +1,5 @@
+// max of two numbers
+
 #include <stdio.h>
 
 void findMax(int *a, int *b, int *max)
