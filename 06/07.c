@@ -26,7 +26,7 @@ int main()
     swap(x, y);
     printf("a = %d & b = %d\n", x, y);
 
-    _swap(x, y);
+    _swap(&x, &y);
     printf("a = %d & b = %d\n", x, y);
 
     return 0;
