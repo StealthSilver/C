@@ -19,3 +19,9 @@ Store string in memory & the assigned address in stored in the char pointer 'str
 char *str = "Hello World";  // can be reinitialized
 
 char str[] = "Hello World" // cannot be reinitialized
+
+STANDARD LIBRARY FUNCTION 
+
+<string.h>
+
+1. strlen(str) : count the number of characters excluding '\0'
