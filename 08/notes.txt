@@ -25,3 +25,9 @@ STANDARD LIBRARY FUNCTION
 <string.h>
 
 1. strlen(str) : count the number of characters excluding '\0'
+
+2. strcpy(newStr , oldStr) : copies value of old string to new string 
+
+3. strcat(firstStr , secStr) : concatenates first string witht eh second string
+
+4. strcmp(firstStr , secStr) : Compares 2 strings & returns a value
