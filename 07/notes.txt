@@ -25,6 +25,8 @@ ARRAY AS FUNCTION ARGUMENTS (09.c)
 
 MULTIDIMENTIONAL ARRAY (10.c)
 
+int arr[][] = {{1,2}, {1,3} , {1,4}}
+
 
 
 
