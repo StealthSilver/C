@@ -10,8 +10,8 @@ int main()
     scanf("%f", &price[1]);
     scanf("%f", &price[2]);
 
-    printf("total price 1 : %f", price[0] + (0.18 * price[0]));
-    printf("total price 2 : %f", price[1] + (0.18 * price[0]));
-    printf("total price 3 : %f", price[2] + (0.18 * price[0]));
+    printf("total price 1 : %f \n", price[0] + (0.18 * price[0]));
+    printf("total price 2 : %f \n", price[1] + (0.18 * price[0]));
+    printf("total price 3 : %f \n", price[2] + (0.18 * price[0]));
     return 0;
 }
