@@ -23,3 +23,5 @@ this will give the address in the hexadecimal format
 %u -> format specifier for pointer 
 this will give the address in unsigned int format
 
+POINTER TO POINTER (04.c)
+
