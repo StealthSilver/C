@@ -7,10 +7,18 @@ int main()
 
     int *ptr = &card[0];
 
-    for (int i = 0; i < 10; i++)
+    // input
+    for (int i = 0; i < 5; i++)
     {
         printf("%d index : ", i);
         scanf("%d", (ptr + i));
+    }
+
+    // output
+
+    for (int i = 0; i < 5; i++)
+    {
+        printf("%d index = %d \n", i, *(ptr + i));
     }
 
     return 0;
