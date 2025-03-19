@@ -12,3 +12,6 @@ POINTER ARITHEMATIC
 
 pointer can be incremented and decremented  (04.c)
 
+we can subtract one pointer from another 
+
+we can also compare two pointers
