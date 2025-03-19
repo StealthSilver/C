@@ -4,3 +4,5 @@ A character array terminated by a 'O' (null character)
 
 null character denotes string transformation 
 
+string format specifier -> "%s";
+
