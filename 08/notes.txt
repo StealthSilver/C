@@ -8,4 +8,4 @@ string format specifier -> "%s"; (03.c)
 
 * scanf() cannot input multi-word strings with spaces 
 
-Here, get() & puts() come into picture
+Here, get() -> this is outdated & puts() come into picture
