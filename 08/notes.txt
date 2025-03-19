@@ -1,0 +1,6 @@
+STRINGS 
+
+A character array terminated by a 'O' (null character)
+
+null character denotes string transformation 
+
