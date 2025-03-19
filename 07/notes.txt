@@ -7,3 +7,5 @@ char name[5]; -> size = char * 5
 float price[3]; -> size = flaot * 3
 
 if we will try to store elements more than the size of the array then we will get a runtime error
+
+POINTER ARITHEMATIC
