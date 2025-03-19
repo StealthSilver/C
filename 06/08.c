@@ -2,10 +2,10 @@
 
 int main()
 {
-
     int n = 4;
-    printf("%p\n", &n);
+
     printAddress(n);
+    printf("address of n is : %u\n", &n);
 
     return 0;
 }
