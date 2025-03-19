@@ -25,3 +25,4 @@ this will give the address in unsigned int format
 
 POINTER TO POINTER (04.c)
 
+A variable that stores the memory address of another variable
