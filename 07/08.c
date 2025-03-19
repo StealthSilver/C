@@ -2,13 +2,16 @@
 
 int main()
 {
-    int age = 90;
-    char _age = 'a';
 
-    int *ptr = &age;
-    char *_ptr = &_age;
+    int card[5];
 
-    printf("%u , %uDifference = %td\n", ptr, _ptr, ptr - _ptr);
+    int *ptr = &card[0];
+
+    for (int i = 0; i < 10; i++)
+    {
+        printf("%d index : ", i);
+        scanf("%d", (ptr + i));
+    }
 
     return 0;
 }

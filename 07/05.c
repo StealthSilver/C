@@ -6,7 +6,7 @@ int main()
     float *ptr = &price;
 
     printf("ptr = %u\n", ptr);
-    ptr++;
+    ptr++; // increment by 4
     printf("ptr = %u\n", ptr);
     ptr--;
 

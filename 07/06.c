@@ -6,7 +6,7 @@ int main()
     char *ptr = &star;
 
     printf("ptr = %u\n", ptr);
-    ptr++;
+    ptr++; // increment by 1
     printf("ptr = %u\n", ptr);
     ptr--;
 
