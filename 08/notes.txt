@@ -8,4 +8,10 @@ string format specifier -> "%s"; (03.c)
 
 * scanf() cannot input multi-word strings with spaces 
 
-Here, get() -> this is outdated & puts() come into picture
+Here, get() -> this is outdated,  & puts() come into picture
+
+String using pointer 
+
+char *str = "Hello World" 
+Store string in memory & the assigned address in stored in the char pointer 'str
+
