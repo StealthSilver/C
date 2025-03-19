@@ -1,3 +1,5 @@
+// elements of array in reverse order
+
 #include <stdio.h>
 
 void printReverse(int *arr, int size)
