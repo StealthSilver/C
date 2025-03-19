@@ -20,3 +20,12 @@ we can only subtract or compare pointers of same data type
 ARRAY IS A POINTER 
 
 the name of the array is a pointer which points at the zeroth location of the array (08.c)
+
+ARRAY AS FUNCTION ARGUMENTS (09.c)
+
+MULTIDIMENTIONAL ARRAY (10.c)
+
+
+
+
+
