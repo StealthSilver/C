@@ -6,3 +6,6 @@ null character denotes string transformation (02.c)
 
 string format specifier -> "%s"; (03.c)
 
+* scanf() cannot input multi-word strings with spaces 
+
+Here, get() & puts() come into picture
