@@ -1,3 +1,5 @@
+// call by refrence
+
 #include <stdio.h>
 
 void _square(int *n)
