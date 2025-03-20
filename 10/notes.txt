@@ -64,8 +64,8 @@ WRITING TO A FILE (03.c)
 
 fprintf(fptr, "%c" , ch)
 
-READ AND WRITE THE CHARACTER
+READ AND WRITE THE CHARACTER 
 
-fgetc(fptr)
+fgetc(fptr) (04.c)
 
-fputc('A' , fptr)
+fputc('A' , fptr) (05.c)
