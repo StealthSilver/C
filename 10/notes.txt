@@ -54,3 +54,8 @@ if the file does not exist then these functions will crete the functions
 "a" open to append
 
 the new data will store after the old data
+
+
+READING FROM A FILE 
+
+fscanf(fptr, "%c" , &ch)
