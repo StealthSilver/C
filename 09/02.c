@@ -26,7 +26,7 @@ int main()
     s2.roll = 143223;
     s2.cgpa = 9.2;
 
-    strcpy(s2.name, "iron");
+    strcpy(s2.name, "iron2");
 
     printf("student name = %s \n", s2.name);
     printf("student cgpa = %d \n", s2.cgpa);
@@ -36,7 +36,7 @@ int main()
     s3.roll = 122323;
     s3.cgpa = 9.6;
 
-    strcpy(s3.name, "iron");
+    strcpy(s3.name, "iron3");
 
     printf("student name = %s \n", s3.name);
     printf("student cgpa = %d \n", s3.cgpa);
