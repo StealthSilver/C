@@ -1,3 +1,5 @@
+// memory reallocation
+
 #include <stdio.h>
 #include <stdlib.h>
 
