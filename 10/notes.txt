@@ -59,3 +59,7 @@ the new data will store after the old data
 READING FROM A FILE 
 
 fscanf(fptr, "%c" , &ch)
+
+WRITING TO A FILE
+
+fprintf(fptr, "%c" , ch)
