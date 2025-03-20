@@ -3,3 +3,9 @@ FILE INPUT - OUTPUT
 there are two kinds of memory in the computer
 a. volatile -> this is the temporary memory (RAM)
 b. non-volatile -> this is the permanent memory (SSD)
+
+file : container in a storage device to store data 
+
+RAM is volatile 
+contents are lost when program terminates 
+files are used to persist the data
