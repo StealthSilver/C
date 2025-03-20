@@ -38,3 +38,19 @@ fptr = open("filename" , mode)
 OPENING A FILE 
 
 fclose(fptr)
+
+file opening modes 
+
+"r" open to read 
+"rb" open to read in binary 
+
+if the file does not exist then in the pointer null is stored 
+
+"w" open to write 
+"wb open to write in binary
+
+if the file does not exist then these functions will crete the functions
+
+"a" open to append
+
+the new data will store after the old data
