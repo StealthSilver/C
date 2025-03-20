@@ -1,3 +1,4 @@
+// finding the highest frequency character
 #include <stdio.h>
 #include <string.h>
 
