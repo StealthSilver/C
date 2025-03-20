@@ -9,3 +9,11 @@ file : container in a storage device to store data
 RAM is volatile 
 contents are lost when program terminates 
 files are used to persist the data
+
+operations on a file 
+
+Create a file 
+Open a file 
+Close a file 
+Read from a file 
+Write in a file
