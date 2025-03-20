@@ -1,3 +1,5 @@
+// input the string using the %c
+
 #include <stdio.h>
 
 void printString(char arr[]);
