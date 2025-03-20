@@ -3,3 +3,8 @@ DYNAMIC MEMORY ALLOCATION
 it is the way to allocate memory to a data structure during the runtime 
 
 functions to allocate and free the memory dynamiclly
+
+a. malloc() -> memory allocation 
+b. calloc() -> continuous allocation 
+c. free() -> 
+d. realloc() -> re-allocation
