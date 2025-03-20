@@ -4,11 +4,11 @@ it is the way to allocate memory to a data structure during the runtime
 
 functions to allocate and free the memory dynamiclly
 
-a. malloc() -> memory allocation 
+a. malloc() -> memory allocation (02.c , 03.c)
 
 takes the number of bytes to be allocated and returns a pointer of type void 
 
-ptr = (int*)malloc(5*sizeof(int));
+ptr = (int*)malloc(5*sizeof(int)); 
 
 b. calloc() -> continuous allocation 
 
