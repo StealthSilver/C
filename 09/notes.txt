@@ -5,3 +5,4 @@ structures are stored in the memory in contiguous memory locations according to 
 
 ARRAY OF STRUCTURES (03.c)
 
+INITIALIZING STRUCTURES (04.c)
