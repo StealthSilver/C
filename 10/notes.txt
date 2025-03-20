@@ -17,3 +17,8 @@ Open a file
 Close a file 
 Read from a file 
 Write in a file
+
+there are two basic types of files 
+
+a. text files  -> .txt , .c 
+b. binary files -> .exe , .mp3 , .jpg
