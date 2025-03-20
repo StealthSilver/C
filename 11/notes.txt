@@ -18,7 +18,10 @@ initializes with 0
 
 ptr = (*int)calloc(5, sizeof(int));
 
-c. free() -> 
+c. free() -> (05.c)
+
+we use it to free memory that is allocated using malloc and calloc
+free(ptr)
 
 
 d. realloc() -> re-allocation
