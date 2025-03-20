@@ -29,3 +29,12 @@ FILE is a (hidden) structure that needs to be created for opening a file
 A FILE that points to this structure & is used to access the file 
 
 FILE *fptr
+
+OPENING A FILE 
+
+fptr = open("filename" , mode)
+
+
+OPENING A FILE 
+
+fclose(fptr)
