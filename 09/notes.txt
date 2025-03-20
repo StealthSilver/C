@@ -17,3 +17,7 @@ ARROW OPERATOR (06.c)
 (*ptr).code <-> ptr->code
 
 PASSING STRUCTURS TO FUNCTIONS (07.c)
+
+TYPEDEF KEYWORD (08.c)
+
+used to create alias for data types 
