@@ -1,0 +1,3 @@
+STRUCTURES 
+
+a collection of values of different data types
