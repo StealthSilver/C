@@ -8,7 +8,7 @@ a. malloc() -> memory allocation
 
 takes the number of bytes to be allocated and returns a pointer of type void 
 
-ptr = (*int)malloc(5*sizeof(int));
+ptr = (int*)malloc(5*sizeof(int));
 
 b. calloc() -> continuous allocation 
 
