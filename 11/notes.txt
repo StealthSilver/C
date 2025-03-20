@@ -21,7 +21,11 @@ ptr = (*int)calloc(5, sizeof(int));
 c. free() -> (05.c)
 
 we use it to free memory that is allocated using malloc and calloc
+
 free(ptr)
 
+d. realloc() -> re-allocation (06.c)
 
-d. realloc() -> re-allocation
+reallocates(increases or decreases) memory using the same pointer and size 
+
+ptr = realloc(ptr , newSize);
