@@ -1,1 +1,3 @@
-rah	43	9.400000	
+student name : ho
+ student age : 23
+ student cgpa : 9.300000

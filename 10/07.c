@@ -19,9 +19,9 @@ int main()
     printf("enter the cgpa: \n");
     scanf("%f", &cgpa);
 
-    fprintf(fptr, "%s\t", name);
-    fprintf(fptr, "%d\t", age);
-    fprintf(fptr, "%f\t", cgpa);
+    fprintf(fptr, "student name : %s\n", name);
+    fprintf(fptr, "student age : %d\n", age);
+    fprintf(fptr, "student cgpa : %f\n", cgpa);
 
     fclose(fptr);
 
