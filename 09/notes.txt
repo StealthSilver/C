@@ -2,4 +2,4 @@ STRUCTURES
 
 a collection of values of different data types
 
-structures are stored in the memory in contiguous memory locations
+structures are stored in the memory in contiguous memory locations according to their data types
