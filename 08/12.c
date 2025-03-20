@@ -8,7 +8,11 @@ void salting(char password[]);
 int main()
 {
     char password[100];
-    scanf("%s", password);
+
+    printf("Enter your password: ");
+    fgets(password, sizeof(password), stdin);
+    password[strcspn(password, "\n")] = '\0';
+
     salting(password);
 
     return 0;
@@ -16,10 +20,11 @@ int main()
 
 void salting(char password[])
 {
-    char salt[] = '123';
+    char salt[] = "123";
     char newPass[200];
 
     strcpy(newPass, password);
     strcat(newPass, salt);
-    puts(newPass);
+
+    printf("Salted password: %s\n", newPass);
 }
