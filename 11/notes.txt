@@ -10,7 +10,7 @@ takes the number of bytes to be allocated and returns a pointer of type void
 
 ptr = (int*)malloc(5*sizeof(int)); 
 
-b. calloc() -> continuous allocation 
+b. calloc() -> continuous allocation (04.c)
 
 this allocates the memory continouslly
 
