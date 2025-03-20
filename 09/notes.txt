@@ -11,3 +11,7 @@ POINTERS TO STRUCTURES (05.c)
 
 struct student *ptr;
 ptr = &s1;
+
+ARROW OPERATOR (06.c)
+
+(*ptr).code <-> ptr->code
