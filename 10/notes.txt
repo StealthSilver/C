@@ -69,3 +69,7 @@ READ AND WRITE THE CHARACTER
 fgetc(fptr) (04.c)
 
 fputc('A' , fptr) (05.c)
+
+EOF -> end of file (06.c)
+
+fgetc returns EOF to show that the file has ended
