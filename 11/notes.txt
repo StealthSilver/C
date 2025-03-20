@@ -12,6 +12,11 @@ ptr = (int*)malloc(5*sizeof(int));
 
 b. calloc() -> continuous allocation 
 
+this allocates the memory continouslly
+
+initializes with 0
+
+ptr = (*int)calloc(5, sizeof(int));
 
 c. free() -> 
 
