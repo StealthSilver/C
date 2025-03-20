@@ -63,3 +63,9 @@ fscanf(fptr, "%c" , &ch)
 WRITING TO A FILE (03.c)
 
 fprintf(fptr, "%c" , ch)
+
+READ AND WRITE THE CHARACTER
+
+fgetc(fptr)
+
+fputc('A' , fptr)
