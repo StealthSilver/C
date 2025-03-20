@@ -31,3 +31,4 @@ STANDARD LIBRARY FUNCTION
 3. strcat(firstStr , secStr) : concatenates first string witht eh second string
 
 4. strcmp(firstStr , secStr) : Compares 2 strings & returns a value
+
