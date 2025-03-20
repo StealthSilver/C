@@ -3,12 +3,12 @@
 
 int main()
 {
-    char firstStr[50] = "Hello, "; // Enough space for concatenation
-    char secStr[] = "World!";
+    char oldStr[] = "C Programming";
+    char newStr[50]; // Ensure enough space
 
-    strcat(firstStr, secStr); // Append secStr to firstStr
+    strcpy(newStr, oldStr); // Copy oldStr to newStr
 
-    printf("Concatenated String: %s\n", firstStr);
+    printf("Copied String: %s\n", newStr);
 
     return 0;
 }

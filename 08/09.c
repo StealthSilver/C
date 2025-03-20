@@ -3,23 +3,12 @@
 
 int main()
 {
-    char str1[] = "Apple";
-    char str2[] = "Banana";
+    char firstStr[50] = "Hello, "; // Enough space for concatenation
+    char secStr[] = "World!";
 
-    int result = strcmp(str1, str2);
+    strcat(firstStr, secStr); // Append secStr to firstStr
 
-    if (result == 0)
-    {
-        printf("Strings are equal.\n");
-    }
-    else if (result < 0)
-    {
-        printf("str1 comes before str2 in lexicographical order.\n");
-    }
-    else
-    {
-        printf("str1 comes after str2 in lexicographical order.\n");
-    }
+    printf("Concatenated String: %s\n", firstStr);
 
     return 0;
 }
