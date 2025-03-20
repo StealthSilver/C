@@ -5,6 +5,9 @@ it is the way to allocate memory to a data structure during the runtime
 functions to allocate and free the memory dynamiclly
 
 a. malloc() -> memory allocation 
+
+takes the number of bytes to be allocated and returns a pointer of type void 
+
 b. calloc() -> continuous allocation 
 c. free() -> 
 d. realloc() -> re-allocation
