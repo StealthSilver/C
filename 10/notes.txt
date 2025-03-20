@@ -56,10 +56,10 @@ if the file does not exist then these functions will crete the functions
 the new data will store after the old data
 
 
-READING FROM A FILE 
+READING FROM A FILE (02.c)
 
 fscanf(fptr, "%c" , &ch)
 
-WRITING TO A FILE
+WRITING TO A FILE (03.c)
 
 fprintf(fptr, "%c" , ch)
