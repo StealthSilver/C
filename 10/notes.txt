@@ -1,0 +1,5 @@
+FILE INPUT - OUTPUT
+
+there are two kinds of memory in the computer
+a. volatile -> this is the temporary memory (RAM)
+b. non-volatile -> this is the permanent memory (SSD)
