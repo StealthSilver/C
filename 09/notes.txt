@@ -1,4 +1,7 @@
-STRUCTURES 
+STRUCTURES (01.c)
 
 a collection of values of different data types
 structures are stored in the memory in contiguous memory locations according to their data types
+
+ARRAY OF STRUCTURES (03.c)
+
